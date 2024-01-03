@@ -29,10 +29,10 @@ Step 10.:- After generate the gcode format then follow the these instruction
   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![image](https://github.com/laakshit-D/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119559976/ea8ba611-8ed7-4edc-ace7-bcf5fb9709d7)
+![291570620-bd94666e-8e8d-4817-880e-f75299530fd1](https://github.com/HarrishVenkat/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/144979588/7b07fc08-d220-4398-95ca-a9ee91b1ee99)
 
 ### Output:
-![image](https://github.com/laakshit-D/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119559976/d7a6e0ae-9e32-4296-8aa0-65dd2d30f9b3)
+![Screenshot 2024-01-03 085017](https://github.com/Lakshmansro/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/139961914/c57c35e7-b919-476b-b096-8aad81a99234)
 
 ### Name: Sri lakshman
 ### Register Number: 23004121
